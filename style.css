@@ -37,7 +37,7 @@ header {
 
 .social-media ul li {
     list-style: none;
-    display:inline-flex;
+    display: inline-flex;
     position: relative;
     margin-left: -4px;
 }
@@ -136,7 +136,7 @@ nav img {
     border: 1px solid var(--primary-color);
     padding: 10px, 12px;
     color: var(--primary-color);
-    background: transparent;
+    background: var(--secondary-color);
     transition: 1s;
 }
 
